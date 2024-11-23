@@ -1,0 +1,1 @@
+nohup python run_web.py > website_mech.log 2>&1 &   #启动python
